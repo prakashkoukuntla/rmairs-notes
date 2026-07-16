@@ -14,7 +14,8 @@ implies an offering of any investment in the fund itself. Do your own work.
 
 ## Notes
 
-- [2026-07-16 — Legacy Housing Corporation (LEGH) — an investment thesis](posts/2026-07-16-legh.html)
+*(Theses appear here as the fund publishes them.)*
+
 
 
 ---

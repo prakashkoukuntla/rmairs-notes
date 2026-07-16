@@ -5,7 +5,8 @@ and each page's Git commit timestamp is a verifiable record of when the note wen
 
 **Nothing here is investment advice.** Each note carries its own position disclosure;
 read it. The fund may buy or sell anything it writes about, at any time, without notice.
-Do your own work.
+RMAIRS manages only its operator's own capital — nothing here offers, solicits, or
+implies an offering of any investment in the fund itself. Do your own work.
 
 ## Notes
 

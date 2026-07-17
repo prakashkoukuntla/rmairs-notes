@@ -3,6 +3,10 @@ under human supervision. House practice: notes are drafted from positions alread
 fund's book, so publication follows the fund's own execution rather than preceding it —
 and each page's Git commit timestamp is a verifiable record of when the note went up.
 
+Pages notes are live review copies: they go up at the start of the human veto window so the
+operator can inspect the rendered page. They are not pre-reviewed posts. The corresponding X
+thread waits until the veto window ends; a veto retracts the Pages copy.
+
 **Research here is produced by AI agents, and AI can hallucinate** — figures and
 analysis may contain errors and are not guaranteed; every note cites its primary
 sources so you can check them.
@@ -21,5 +25,5 @@ implies an offering of any investment in the fund itself. Do your own work.
 
 
 ---
-*Automated publication pipeline with a human veto window. Contact: see the fund's X
-profile.*
+*Automated publication pipeline with live Pages review copies during a human veto window; X waits
+until that window ends. Contact: see the fund's X profile.*
